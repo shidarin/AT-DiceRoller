@@ -38,6 +38,14 @@ v1.0:
     Release Version
     Finished code commenting
 
+v1.1
+
+    Rebuilt much of the dice roller's code
+    Added Critical Injuries
+    Added Force Dice
+    Added dice by dice results
+    Slight Resolution Change
+
 Credits and Thanks:
 
     Fantasy Flight Games for a great Star Wars RPG
